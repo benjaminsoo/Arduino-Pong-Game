@@ -7,26 +7,27 @@ A Arduino/C++ based game that starts with a captivating loading screen and plung
 <br />
 
 <h2>Key Achievements</h2>
-- Developed using PlatformIO and Fritzing </b>
-- Utilized C/C++ Programming Language with Adafruit_GFX and Adafruit_SSD1306 libraries, introducing 20+ game features to enhance graphical user interface.
+- Developed using PlatformIO and Fritzing <br/>
+- Utilized C/C++ Programming Language with Adafruit_GFX and Adafruit_SSD1306 libraries, introducing 20+ game features to enhance graphical user interface. <br/>
 - Designed a circuit schematic and utilized Microcontrollers, Push Buttons, I2C Communication Protocol, and Breadboard to display data.
 
 <br />
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>C++</b> 
+- <b>Arduino</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Visual Studio Code</b>
 
 <h2>Program walk-through:</h2>
 
+
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I8a9Z8k.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
