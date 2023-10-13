@@ -3,11 +3,15 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
--Engineered an embedded system game using PlatformIO and Fritzing, with the goal of deploying 50+ systems for after-school programs.
-    -Utilized C/C++ Programming Language with Adafruit_GFX and Adafruit_SSD1306 libraries, introducing 20+ game features to enhance graphical user interface.
-    -Designed a circuit schematic and utilized Microcontrollers, Push Buttons, I2C Communication Protocol, and Breadboard to display data.
+A Arduino/C++ based game that starts with a captivating loading screen and plunges the user into an interactive ping pong match against a CPU, battling to be the first to achieve five points.
 <br />
 
+<h2>Key Achievements</h2>
+- Developed using PlatformIO and Fritzing
+- Utilized C/C++ Programming Language with Adafruit_GFX and Adafruit_SSD1306 libraries, introducing 20+ game features to enhance graphical user interface.
+- Designed a circuit schematic and utilized Microcontrollers, Push Buttons, I2C Communication Protocol, and Breadboard to display data.
+
+<br />
 
 <h2>Languages and Utilities Used</h2>
 
