@@ -1,6 +1,6 @@
 <h1>Battle Disc 2.0: Miniaturized Ping Pong</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 A Arduino/C++ based game that starts with a captivating loading screen and plunges the user into an interactive ping pong match against a CPU, battling to be the first to achieve five points.
@@ -26,40 +26,13 @@ A Arduino/C++ based game that starts with a captivating loading screen and plung
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/I8a9Z8k.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Loading Screen: <br/>
+<img src="https://i.imgur.com/I8a9Z8k.jpg" height="50%" width="50%" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<p align="center">
+In Game: <br/>
+<img src="https://i.imgur.com/4Y7TW9o.jpg" height="30%" width="30%" />
+<br />
+<br />
