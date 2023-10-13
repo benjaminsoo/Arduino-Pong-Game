@@ -7,7 +7,7 @@ A Arduino/C++ based game that starts with a captivating loading screen and plung
 <br />
 
 <h2>Key Achievements</h2>
-- Developed using PlatformIO and Fritzing
+- Developed using PlatformIO and Fritzing </b>
 - Utilized C/C++ Programming Language with Adafruit_GFX and Adafruit_SSD1306 libraries, introducing 20+ game features to enhance graphical user interface.
 - Designed a circuit schematic and utilized Microcontrollers, Push Buttons, I2C Communication Protocol, and Breadboard to display data.
 
