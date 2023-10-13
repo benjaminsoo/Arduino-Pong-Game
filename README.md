@@ -1,4 +1,4 @@
-<h1>Arduino Pong Game</h1>
+<h1>Battle Disc 2.0: Miniaturized Ping Pong</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
